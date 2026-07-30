@@ -10,6 +10,11 @@
     },
     "android": {
       "package": "com.nearyou.app"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f78c5af6-5e0f-42f3-925a-404805aca569"
+      }
     }
   }
 }

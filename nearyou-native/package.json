@@ -15,5 +15,8 @@
     "react-native": "0.74.5",
     "react-native-webview": "13.8.6"
   },
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "babel-preset-expo": "^57.0.5"
+  }
 }
