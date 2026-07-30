@@ -3,7 +3,7 @@ import { StyleSheet, SafeAreaView, StatusBar, View, ActivityIndicator } from 're
 import { WebView } from 'react-native-webview';
 
 // EDIT THIS URL: Replace with your actual Vercel deployment URL
-const VERCEL_URL = 'https://near-you-gold.vercel.app';
+const VERCEL_URL = 'https://near-you-sooty.vercel.app';
 
 export default function App() {
   return (
